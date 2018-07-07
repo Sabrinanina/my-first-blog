@@ -1,0 +1,1 @@
+participant = {'Ana', 'Juliane', 'Caro', 'Sabrina'}
